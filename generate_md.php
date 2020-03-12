@@ -4,7 +4,7 @@ $states = include('states.php');
 
 foreach($states as $state) {
     echo sprintf("## %s\n\n", $state['state']);
-    echo sprintf("[informationsseite](%s)\n\n", $state['info']);
+    echo sprintf("[Informationsseite](%s)\n\n", $state['info']);
 
     if (count($state['cases']) > 0) {
 

@@ -13,7 +13,7 @@ Ich habe versucht die Informationen (URLs) als JSON, bzw. PHP-Array flexibel vor
 
 ## Baden-Württemberg
 
-[informationsseite](https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/)
+[Informationsseite](https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/)
 
 Fallzahlen:
 
@@ -22,7 +22,7 @@ Fallzahlen:
 
 ## Bayern
 
-[informationsseite](https://www.lgl.bayern.de/gesundheit/infektionsschutz/infektionskrankheiten_a_z/coronavirus/covid_uebersicht.htm)
+[Informationsseite](https://www.lgl.bayern.de/gesundheit/infektionsschutz/infektionskrankheiten_a_z/coronavirus/covid_uebersicht.htm)
 
 Fallzahlen:
 
@@ -32,13 +32,13 @@ Fallzahlen:
 
 ## Berlin
 
-[informationsseite](https://www.berlin.de/sen/gesundheit/themen/gesundheitsschutz-und-umwelt/infektionsschutz/coronavirus/)
+[Informationsseite](https://www.berlin.de/sen/gesundheit/themen/gesundheitsschutz-und-umwelt/infektionsschutz/coronavirus/)
 
 Keine Fallzahlen?
 
 ## Brandenburg
 
-[informationsseite](https://msgiv.brandenburg.de/msgiv/de/start/themen/gesundheit/oeffentlicher-gesundheitsdienst/informationen-zum-neuartigen-coronavirus/)
+[Informationsseite](https://msgiv.brandenburg.de/msgiv/de/start/themen/gesundheit/oeffentlicher-gesundheitsdienst/informationen-zum-neuartigen-coronavirus/)
 
 Fallzahlen:
 
@@ -47,13 +47,13 @@ Fallzahlen:
 
 ## Bremen
 
-[informationsseite](https://www.bremen.de/corona)
+[Informationsseite](https://www.bremen.de/corona)
 
 Keine Fallzahlen?
 
 ## Hamburg
 
-[informationsseite](https://www.hamburg.de/coronavirus/13429836/informationen/)
+[Informationsseite](https://www.hamburg.de/coronavirus/13429836/informationen/)
 
 Fallzahlen:
 
@@ -62,7 +62,7 @@ Fallzahlen:
 
 ## Hessen
 
-[informationsseite](https://soziales.hessen.de/gesundheit/infektionsschutz/coronavirus-sars-cov-2)
+[Informationsseite](https://soziales.hessen.de/gesundheit/infektionsschutz/coronavirus-sars-cov-2)
 
 Fallzahlen:
 
@@ -71,7 +71,7 @@ Fallzahlen:
 
 ## Mecklenburg-Vorpommern
 
-[informationsseite](https://www.regierung-mv.de/Landesregierung/wm/Aktuelles--Blickpunkte/Wichtige-Informationen-zum-Corona%E2%80%93Virus)
+[Informationsseite](https://www.regierung-mv.de/Landesregierung/wm/Aktuelles--Blickpunkte/Wichtige-Informationen-zum-Corona%E2%80%93Virus)
 
 Fallzahlen:
 
@@ -80,7 +80,7 @@ Fallzahlen:
 
 ## Niedersachsen
 
-[informationsseite](https://www.niedersachsen.de/Coronavirus)
+[Informationsseite](https://www.niedersachsen.de/Coronavirus)
 
 Fallzahlen:
 
@@ -89,13 +89,13 @@ Fallzahlen:
 
 ## Nordrhein-Westfalen
 
-[informationsseite](https://www.mags.nrw/coronavirus)
+[Informationsseite](https://www.mags.nrw/coronavirus)
 
 Keine Fallzahlen?
 
 ## Rheinland-Pfalz
 
-[informationsseite](https://msagd.rlp.de/de/unsere-themen/gesundheit-und-pflege/gesundheitliche-versorgung/oeffentlicher-gesundheitsdienst-hygiene-und-infektionsschutz/infektionsschutz/informationen-zum-coronavirus-sars-cov-2/)
+[Informationsseite](https://msagd.rlp.de/de/unsere-themen/gesundheit-und-pflege/gesundheitliche-versorgung/oeffentlicher-gesundheitsdienst-hygiene-und-infektionsschutz/infektionsschutz/informationen-zum-coronavirus-sars-cov-2/)
 
 Fallzahlen:
 
@@ -104,7 +104,7 @@ Fallzahlen:
 
 ## Saarland
 
-[informationsseite](https://www.saarland.de/corona.htm)
+[Informationsseite](https://www.saarland.de/corona.htm)
 
 Fallzahlen:
 
@@ -113,7 +113,7 @@ Fallzahlen:
 
 ## Sachsen
 
-[informationsseite](https://www.sms.sachsen.de/coronavirus.html)
+[Informationsseite](https://www.sms.sachsen.de/coronavirus.html)
 
 Fallzahlen:
 
@@ -122,7 +122,7 @@ Fallzahlen:
 
 ## Sachsen-Anhalt
 
-[informationsseite](https://verbraucherschutz.sachsen-anhalt.de/hygiene/infektionsschutz/infektionskrankheiten/coronavirus/)
+[Informationsseite](https://verbraucherschutz.sachsen-anhalt.de/hygiene/infektionsschutz/infektionskrankheiten/coronavirus/)
 
 Fallzahlen:
 
@@ -131,16 +131,14 @@ Fallzahlen:
 
 ## Schleswig-Holstein
 
-[informationsseite](https://www.schleswig-holstein.de/DE/Landesregierung/VIII/_startseite/Artikel_2020/I/200227_coronavirus.html)
+[Informationsseite](https://www.schleswig-holstein.de/DE/Landesregierung/VIII/_startseite/Artikel_2020/I/200227_coronavirus.html)
 
 Keine Fallzahlen?
 
 ## Thüringen
 
-[informationsseite](https://www.tmasgff.de/covid-19)
+[Informationsseite](https://www.tmasgff.de/covid-19)
 
 Fallzahlen:
 
 - [Fallzahlen als verlinkte Artikel im Accordion auf der Seite. Scheint aber nicht aktuell zu sein](https://www.tmasgff.de/covid-19)
-
-
