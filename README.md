@@ -1,6 +1,6 @@
 # Coronavirus Informationen Deutschland
 
-In diesem Repo habe ich die Informationsseiten der einzelenen Bundesländer zum Thema Coronavirus zusammen getragen. 
+In diesem Repo habe ich die Informationsseiten der einzelnen Bundesländer zum Thema Coronavirus zusammen getragen. 
 
 **Achtung!** Da sich die Lage sehr schnell ändert, kann es durchaus sein, dass die Links nicht mehr aktuell sind oder meine Beschreibung fehlerhaft! Außerdem es ist es auch gut möglich, dass weitere Informationsseiten gibt, die hier nicht auf gelistet sind.
 
