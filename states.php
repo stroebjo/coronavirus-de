@@ -39,7 +39,12 @@ return [
         'code' => 'BE',
         'authority' => null,
 
-        'cases' => []
+        'cases' => [
+            [
+                'comment' => 'Pressemitteilungen (enthalten Bilder von Tabellen nach Altersgruppe und Bezirk)',
+                'url' => 'https://www.berlin.de/presse/pressemitteilungen/index/search?searchtext=corona+coronavirus'
+            ]
+        ]
     ],
 
     [
