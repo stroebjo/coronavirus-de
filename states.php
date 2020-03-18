@@ -55,8 +55,8 @@ return [
 
         'cases' => [
             [
-                'comment' => 'Pressemitteilungen am Ende der Seite',
-                'url' => 'https://msgiv.brandenburg.de/msgiv/de/start/themen/gesundheit/oeffentlicher-gesundheitsdienst/informationen-zum-neuartigen-coronavirus/'
+                'comment' => 'Pressemitteilungen, jeweils mit Tabelle mir Fällen/Landkreis und veränderung zum Vortag',
+                'url' => 'https://msgiv.brandenburg.de/msgiv/de/presse/pressemitteilungen/'
             ]
         ]
     ],
