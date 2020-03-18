@@ -28,11 +28,16 @@
         ]
     },
     {
-        "info": "https:\/\/www.berlin.de\/sen\/gesundheit\/themen\/gesundheitsschutz-und-umwelt\/infektionsschutz\/coronavirus\/",
+        "info": "https:\/\/www.berlin.de\/corona\/",
         "state": "Berlin",
         "code": "BE",
-        "authority": "Senatsverwaltung f\u00fcr Gesundheit, Pflege und Gleichstellung",
-        "cases": []
+        "authority": null,
+        "cases": [
+            {
+                "comment": "Pressemitteilungen (enthalten Bilder von Tabellen nach Altersgruppe und Bezirk)",
+                "url": "https:\/\/www.berlin.de\/presse\/pressemitteilungen\/index\/search?searchtext=corona+coronavirus"
+            }
+        ]
     },
     {
         "info": "https:\/\/msgiv.brandenburg.de\/msgiv\/de\/start\/themen\/gesundheit\/oeffentlicher-gesundheitsdienst\/informationen-zum-neuartigen-coronavirus\/",
@@ -41,8 +46,8 @@
         "authority": "Ministerium f\u00fcr Soziales, Gesundheit, Integration und Verbraucherschutz",
         "cases": [
             {
-                "comment": "Pressemitteilungen am Ende der Seite",
-                "url": "https:\/\/msgiv.brandenburg.de\/msgiv\/de\/start\/themen\/gesundheit\/oeffentlicher-gesundheitsdienst\/informationen-zum-neuartigen-coronavirus\/"
+                "comment": "Pressemitteilungen, jeweils mit Tabelle mir F\u00e4llen\/Landkreis und ver\u00e4nderung zum Vortag",
+                "url": "https:\/\/msgiv.brandenburg.de\/msgiv\/de\/presse\/pressemitteilungen\/"
             }
         ]
     },
@@ -170,8 +175,8 @@
         "authority": "Ministerium f\u00fcr Arbeit, Soziales, Gesundheit, Frauen und Familie",
         "cases": [
             {
-                "comment": "Fallzahlen als verlinkte Artikel im Accordion auf der Seite. Scheint aber nicht aktuell zu sein",
-                "url": "https:\/\/www.tmasgff.de\/covid-19"
+                "comment": "HTML Tabelle, gesamt, Landkreis",
+                "url": "https:\/\/www.landesregierung-thueringen.de\/corona-bulletin"
             }
         ]
     }

@@ -32,9 +32,12 @@ Fallzahlen:
 
 ## Berlin
 
-[Informationsseite](https://www.berlin.de/sen/gesundheit/themen/gesundheitsschutz-und-umwelt/infektionsschutz/coronavirus/)
+[Informationsseite](https://www.berlin.de/corona/)
 
-Keine Fallzahlen?
+Fallzahlen:
+
+- [Pressemitteilungen (enthalten Bilder von Tabellen nach Altersgruppe und Bezirk)](https://www.berlin.de/presse/pressemitteilungen/index/search?searchtext=corona+coronavirus)
+
 
 ## Brandenburg
 
@@ -42,7 +45,7 @@ Keine Fallzahlen?
 
 Fallzahlen:
 
-- [Pressemitteilungen am Ende der Seite](https://msgiv.brandenburg.de/msgiv/de/start/themen/gesundheit/oeffentlicher-gesundheitsdienst/informationen-zum-neuartigen-coronavirus/)
+- [Pressemitteilungen, jeweils mit Tabelle mir Fällen/Landkreis und veränderung zum Vortag](https://msgiv.brandenburg.de/msgiv/de/presse/pressemitteilungen/)
 
 
 ## Bremen
@@ -141,4 +144,6 @@ Keine Fallzahlen?
 
 Fallzahlen:
 
-- [Fallzahlen als verlinkte Artikel im Accordion auf der Seite. Scheint aber nicht aktuell zu sein](https://www.tmasgff.de/covid-19)
+- [HTML Tabelle, gesamt, Landkreis](https://www.landesregierung-thueringen.de/corona-bulletin)
+
+
