@@ -10,6 +10,8 @@ Ich habe versucht die Informationen (URLs) als JSON, bzw. PHP-Array flexibel vor
 
 - [Berliner Morgenpost Dashboard](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)
 - [Robert Koch Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) ([Fallzahlen](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html))
+- [Risklayer](https://twitter.com/risklayer) aggreggiert Zahlen direkt aus den [Quellen einzelner Landkreise](https://docs.google.com/spreadsheets/d/1wg-s4_Lz2Stil6spQEYFdZaBEp8nWW26gVyfHqvcl8s/edit#gid=0)
+
 
 ## Baden-Württemberg
 
