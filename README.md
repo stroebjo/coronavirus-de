@@ -13,6 +13,7 @@ Ich habe versucht die Informationen (URLs) als JSON, bzw. PHP-Array flexibel vor
 - [Risklayer](https://twitter.com/risklayer) aggreggiert Zahlen direkt aus den [Quellen einzelner Landkreise](https://docs.google.com/spreadsheets/d/1wg-s4_Lz2Stil6spQEYFdZaBEp8nWW26gVyfHqvcl8s/edit#gid=0)
 
 
+---
 ## Baden-Württemberg
 
 [Informationsseite](https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/)
