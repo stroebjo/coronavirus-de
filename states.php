@@ -206,8 +206,8 @@ return [
         
         'cases' => [
             [
-                'comment' => 'Fallzahlen als verlinkte Artikel im Accordion auf der Seite. Scheint aber nicht aktuell zu sein',
-                'url' => 'https://www.tmasgff.de/covid-19',
+                'comment' => 'HTML Tabelle, gesamt, Landkreis',
+                'url' => 'https://www.landesregierung-thueringen.de/corona-bulletin'
             ]
         ]
 
