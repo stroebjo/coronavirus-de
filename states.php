@@ -34,10 +34,10 @@ return [
     ],
 
     [
-        'info' => 'https://www.berlin.de/sen/gesundheit/themen/gesundheitsschutz-und-umwelt/infektionsschutz/coronavirus/',
+        'info' => 'https://www.berlin.de/corona/',
         'state' => 'Berlin',
         'code' => 'BE',
-        'authority' => 'Senatsverwaltung für Gesundheit, Pflege und Gleichstellung',
+        'authority' => null,
 
         'cases' => []
     ],
