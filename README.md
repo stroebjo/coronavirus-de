@@ -11,6 +11,8 @@ Ich habe versucht die Informationen (URLs) als JSON, bzw. PHP-Array flexibel vor
 - [Berliner Morgenpost Dashboard](https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/)
 - [Robert Koch Institut](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html) ([Fallzahlen](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html), [Dashboard](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4))
 - [Risklayer](https://twitter.com/risklayer) aggreggiert Zahlen direkt aus den [Quellen einzelner Landkreise](https://docs.google.com/spreadsheets/d/1wg-s4_Lz2Stil6spQEYFdZaBEp8nWW26gVyfHqvcl8s/edit#gid=0), [Darstellung als interaktive Karte](http://www.risklayer-explorer.com/event/100/detail)
+ 
+- [Verfügbarkeit von Intensivbetten](https://www.intensivregister.de/#/intensivregister)
 
 ## Globale Informationen
 
