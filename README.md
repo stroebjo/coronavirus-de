@@ -26,7 +26,7 @@ Ich habe versucht die Informationen (URLs) als JSON, bzw. PHP-Array flexibel vor
 
 Fallzahlen:
 
-- [Fallzahlen gesamt und Landkreise als Graphik/Excel Datei](https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/)
+- [Fallzahlen gesamt und Landkreise als Graphik/Excel Datei](https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/lage-in-baden-wuerttemberg/)
 
 
 ## Bayern
@@ -65,11 +65,12 @@ Keine Fallzahlen?
 
 ## Hamburg
 
-[Informationsseite](https://www.hamburg.de/coronavirus/13429836/informationen/)
+[Informationsseite](https://www.hamburg.de/coronavirus/)
 
 Fallzahlen:
 
 - [Pressemitteilungen](https://www.hamburg.de/bgv/pressemeldungen/)
+- [Zahlen](https://www.hamburg.de/corona-zahlen/)
 
 
 ## Hessen
