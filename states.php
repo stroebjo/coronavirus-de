@@ -11,7 +11,7 @@ return [
         'cases' => [
             [
                 'comment' => 'Fallzahlen gesamt und Landkreise als Graphik/Excel Datei',
-                'url' => 'https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/',
+                'url' => 'https://sozialministerium.baden-wuerttemberg.de/de/gesundheit-pflege/gesundheitsschutz/infektionsschutz-hygiene/informationen-zu-coronavirus/lage-in-baden-wuerttemberg/',
             ],
         ],
     ],
