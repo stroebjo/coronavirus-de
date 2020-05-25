@@ -71,7 +71,7 @@ return [
     ],
 
     [
-        'info' => 'https://www.hamburg.de/coronavirus/13429836/informationen/',
+        'info' => 'https://www.hamburg.de/coronavirus/',
         'state' => 'Hamburg',
         'code' => 'HH',
         'authority' => 'Behörde für Gesundheit und Verbraucherschutz',
@@ -80,6 +80,10 @@ return [
             [
                 'comment' => 'Pressemitteilungen',
                 'url' => 'https://www.hamburg.de/bgv/pressemeldungen/',
+            ],
+            [
+                'comment' => 'Zahlen',
+                'url' => 'https://www.hamburg.de/corona-zahlen/'
             ]
         ]
     ],
